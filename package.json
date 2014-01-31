@@ -1,0 +1,42 @@
+{
+  "name": "splat-points-3d",
+  "version": "0.0.0",
+  "description": "Splats a point cloud onto a 3D volume",
+  "main": "splat.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "cwise": "^0.4.0",
+    "dirichlet": "^0.0.0",
+    "ndarray": "^1.0.10",
+  },
+  "devDependencies": {
+    "ndarray-pack": "~1.0.1",
+    "tape": "~2.4.0",
+    "zeros": "~0.0.0",
+    "tap": "~0.4.8"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/splat-points-3d.git"
+  },
+  "keywords": [
+    "splat",
+    "point",
+    "cloud",
+    "volume",
+    "graphics",
+    "render",
+    "sinc"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mikolalysenko/splat-points-3d/issues"
+  },
+  "homepage": "https://github.com/mikolalysenko/splat-points-3d"
+}

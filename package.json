@@ -9,7 +9,7 @@
   "dependencies": {
     "cwise": "^0.4.0",
     "dirichlet": "^0.0.0",
-    "ndarray": "^1.0.10",
+    "ndarray": "^1.0.10"
   },
   "devDependencies": {
     "ndarray-pack": "~1.0.1",

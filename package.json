@@ -12,10 +12,11 @@
     "ndarray": "^1.0.16"
   },
   "devDependencies": {
+    "almost-equal": "0.0.0",
     "ndarray-pack": "~1.0.1",
+    "tap": "~0.4.8",
     "tape": "~2.4.0",
-    "zeros": "~0.0.0",
-    "tap": "~0.4.8"
+    "zeros": "~0.0.0"
   },
   "scripts": {
     "test": "tap test/*.js"
